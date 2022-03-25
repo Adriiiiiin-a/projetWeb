@@ -1,0 +1,92 @@
+{
+  "voitures": [
+    {
+      "identifiant": "RMEG001",
+      "marque": "Renault",
+      "modèle": "Megane" ,
+      "annee": "2016",
+      "nbplaces": 5,
+      "disponible": true
+    },
+    {
+      "identifiant": "RMEG002",
+      "marque": "Renault",
+      "modèle": "Megane" ,
+      "annee": "2016",
+      "nbplaces": 5,
+      "disponible": false
+    },
+    {
+      "identifiant": "RCLI001",
+      "marque": "Renault",
+      "modèle": "Clio" ,
+      "annee": "2019",
+      "nbplaces": 5,
+      "disponible": true
+    },
+    {
+      "identifiant": "RCLI002",
+      "marque": "Renault",
+      "modèle": "Clio" ,
+      "annee": "2020",
+      "nbplaces": 5,
+      "disponible": true
+    },
+    {
+      "identifiant": "RCLI003",
+      "marque": "Renault",
+      "modèle": "Clio" ,
+      "annee": "2020",
+      "nbplaces": 5,
+      "disponible": false
+    },
+    {
+      "identifiant": "CC3001",
+      "marque": "Citroën",
+      "modèle": "C3" ,
+      "annee": "2014",
+      "nbplaces": 2,
+      "disponible": true
+    },
+    {
+      "identifiant": "CC3002",
+      "marque": "Citroën",
+      "modèle": "C3" ,
+      "annee": "2014",
+      "nbplaces": 5,
+      "disponible": true
+    },
+    {
+      "identifiant": "CC3003",
+      "marque": "Citroën",
+      "modèle": "C3" ,
+      "annee": "2014",
+      "nbplaces": 2,
+      "disponible": true
+    },
+    {
+      "identifiant": "CC3004",
+      "marque": "Citroën",
+      "modèle": "C3" ,
+      "annee": "2014",
+      "nbplaces": 2,
+      "disponible": false
+    },
+    {
+      "identifiant": "CC3005",
+      "marque": "Citroën",
+      "modèle": "C3" ,
+      "annee": "2022",
+      "nbplaces": 5,
+      "disponible": true
+    },
+    {
+      "identifiant": "CC3006",
+      "marque": "Citroën",
+      "modèle": "C3" ,
+      "annee": "2022",
+      "nbplaces": 5,
+      "disponible": false
+    }
+  ]
+}
